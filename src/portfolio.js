@@ -117,7 +117,7 @@ const educationInfo = {
       // logo: require("./assets/images/stanfordLogo.png"),
       subHeader: "Bachelor of Technology in Computer Science",
       duration: "July 2017 - July 2021",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, DBMS, ..."
+      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Technologies, Operating Systems, DBMS, ..."
     }
   ]
 };
