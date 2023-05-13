@@ -1,6 +1,7 @@
 import React from "react";
 import "./SocialMedia.scss";
 import {socialMediaLinks} from "../../portfolio";
+import leetcode from "../../assets/images/leetcode.svg";
 
 export default function socialMedia() {
   if (!socialMediaLinks.display) {
@@ -44,30 +45,6 @@ export default function socialMedia() {
         </a>
       ) : null}
 
-      {socialMediaLinks.gitlab ? (
-        <a
-          href={socialMediaLinks.gitlab}
-          className="icon-button gitlab"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <i className="fab fa-gitlab"></i>
-          <span></span>
-        </a>
-      ) : null}
-
-      {socialMediaLinks.facebook ? (
-        <a
-          href={socialMediaLinks.facebook}
-          className="icon-button facebook"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <i className="fab fa-facebook-f"></i>
-          <span></span>
-        </a>
-      ) : null}
-
       {socialMediaLinks.instagram ? (
         <a
           href={socialMediaLinks.instagram}
@@ -92,6 +69,30 @@ export default function socialMedia() {
         </a>
       ) : null}
 
+      {socialMediaLinks.leetcode ? (
+        <a
+          href={socialMediaLinks.leetcode}
+          className="icon-button leetcode"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i class="fab fa-codepen"></i>
+          <span></span>
+        </a>
+      ) : null}
+
+      {socialMediaLinks.hackerrank ? (
+        <a
+          href={socialMediaLinks.hackerrank}
+          className="icon-button hackerrank"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fab fa-hackerrank"></i>
+          <span></span>
+        </a>
+      ) : null}
+
       {socialMediaLinks.medium ? (
         <a
           href={socialMediaLinks.medium}
@@ -100,18 +101,6 @@ export default function socialMedia() {
           rel="noopener noreferrer"
         >
           <i className="fab fa-medium"></i>
-          <span></span>
-        </a>
-      ) : null}
-
-      {socialMediaLinks.stackoverflow ? (
-        <a
-          href={socialMediaLinks.stackoverflow}
-          className="icon-button stack-overflow"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <i className="fab fa-stack-overflow"></i>
           <span></span>
         </a>
       ) : null}
