@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/developerFolio/static/css/main.f1ac1af4.css",
+    "main.js": "/developerFolio/static/js/main.ca108974.js",
+    "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.1692348f.chunk.js": "/developerFolio/static/js/64.1692348f.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/developerFolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.d12b8b9f.chunk.js": "/developerFolio/static/js/769.d12b8b9f.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/developerFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/HackerRank_logo.png": "/developerFolio/static/media/HackerRank_logo.c5bede0098e3bf3a222e.png",
+    "static/media/skill.svg": "/developerFolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/streamAlive.jfif": "/developerFolio/static/media/streamAlive.750c6614e50b3bc5a96e.jfif",
+    "static/media/mvpRockets.jfif": "/developerFolio/static/media/mvpRockets.e9ac31807b75523f0e48.jfif",
+    "static/media/mountblue.jfif": "/developerFolio/static/media/mountblue.4cb2d57376d141e66d6b.jfif",
+    "index.html": "/developerFolio/index.html",
+    "static/media/leetcode.svg": "/developerFolio/static/media/leetcode.7951fc74c4520a91c54fc246c2a22654.svg",
+    "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.f1ac1af4.css.map": "/developerFolio/static/css/main.f1ac1af4.css.map",
+    "main.ca108974.js.map": "/developerFolio/static/js/main.ca108974.js.map",
+    "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.1692348f.chunk.js.map": "/developerFolio/static/js/64.1692348f.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/developerFolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.d12b8b9f.chunk.js.map": "/developerFolio/static/js/769.d12b8b9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1ac1af4.css",
+    "static/js/main.ca108974.js"
+  ]
+}
