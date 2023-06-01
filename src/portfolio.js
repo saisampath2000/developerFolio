@@ -53,9 +53,12 @@ const skillsSection = {
     emoji(
       "⚡ Develop authorization and authentication flow for your web and mobile applications"
     ),
-    emoji("⚡ Develop UI, API for web applications"),
+    emoji("⚡ Develop UI, API, Queries and Services for web applications"),
     emoji(
       "⚡ Integration of third party services such as Firebase/ AWS"
+    ),
+    emoji(
+      "⚡ "
     )
   ],
 
@@ -171,7 +174,9 @@ const workExperiences = {
         "Developed authentication flow for logging in with Outlook and email for the platform.",
         "Integrated a Web API that offers services to authorize and get the streams and meetings from youtube and Zoom for the platform.",
         "Integrated a Web API that offers services to get custom tokens from the Firebase and Developed end-to-end User Settings Flow for the platform",
-        "Developed Load Testing Environment to mock production stream data and Migrated SQS handlers services to lambda functions using SAM-CLI"
+        "Developed Load Testing Environment to mock production stream data and Migrated SQS handlers services to lambda functions using SAM-CLI",
+        "Developed end-to-end User Settings Flow for the platform.",
+        "Developed Winners Wheel and Link Library Features for the platform"
       ]
     },
     {
@@ -182,7 +187,8 @@ const workExperiences = {
       desc: "Javascipt Training Bootcamp program",
       descBullets: [
         "Trained in React.js and Node.js ",
-        "Training project : Developed a Flight booking system and Integrated Razorpay payment gateway for it"
+        "Training project : Developed a Flight booking system and Integrated Razorpay payment gateway for it",
+        "In training we have worked across multiple projects"
       ]
     }
   ]
@@ -252,16 +258,10 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://medium.com/@saisampathmahajan/closures-38cea7c6985b",
+      title: "CLOSURES in javascript",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-    },
-    {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "learn about closures"
     }
   ],
   display: true // Set false to hide this section, defaults to true
