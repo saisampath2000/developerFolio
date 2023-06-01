@@ -56,9 +56,6 @@ const skillsSection = {
     emoji("⚡ Develop UI, API, Queries and Services for web applications"),
     emoji(
       "⚡ Integration of third party services such as Firebase/ AWS"
-    ),
-    emoji(
-      "⚡ "
     )
   ],
 
@@ -148,6 +145,10 @@ const techStack = {
     },
     {
       Stack: "SQL",
+      progressPercentage: "70%"
+    },
+    {
+      Stack: "Serverless",
       progressPercentage: "70%"
     },
     {
